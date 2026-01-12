@@ -1,15 +1,15 @@
-# Prompt 1 ->
+## Prompt 1 ->
 
-## Estou construindo um aplicativo simples de clima em HTML, CSS e Javascript. O app deve receber entrada do usuário (nome da cidade), buscar dados meteorológicos de uma API como Open-Meteo e exibi-los em um formato amigável.
+### Estou construindo um aplicativo simples de clima em HTML, CSS e Javascript. O app deve receber entrada do usuário (nome da cidade), buscar dados meteorológicos de uma API como Open-Meteo e exibi-los em um formato amigável.
 
 `Instruction 1: Você não deve fazer overengineering, apenas o que eu pedir.`
 `Instruction 2: Você deve APENAS fazer a estrutura de pastas do nosso projeto meteorológico.`
 
 ---
 
-# Prompt 2 ->
+## Prompt 2 ->
 
-## Agora que suas pastas estão configuradas, o próximo passo é escrever um script que busque dados meteorológicos.
+### Agora que suas pastas estão configuradas, o próximo passo é escrever um script que busque dados meteorológicos.
 
 `Instruction 1: Fazer uma requisição HTTP para uma API de clima (https://open-meteo.com/)`
 
